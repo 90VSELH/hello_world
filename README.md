@@ -1,7 +1,6 @@
 # hello_world
 idea, discussions, shares and resource storage
 
-
 DESC BRIO
 
 Say yeah 
@@ -17,3 +16,6 @@ Might catch Dedan's ghost and start speaking in Mau Mau records
 That boy 7 when rebellion acquiants
 Dome is titanium now and other rare minerals
 To find it they employ forensics
+
+
+
